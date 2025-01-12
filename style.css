@@ -7,3 +7,10 @@
 .aquamarine {
     background-color: #7fffd4;
 }
+
+button {
+    background-color: steelblue;
+    color: ghostwhite;
+    font-size: 1.2em;
+    border-radius: 3px;
+}
